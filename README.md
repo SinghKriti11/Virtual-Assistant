@@ -14,7 +14,7 @@ An AI-powered virtual assistant built using the MERN Stack and Google's Gemini A
 - 🔒 Secure authentication using JWT
 - 💾 MongoDB database for user and chat data
 - ⚡ Fast and scalable backend with Express.js
-- 🎨 Modern React-based frontend
+- 🎨 Modern React-based frontend 
 
 ---
 
