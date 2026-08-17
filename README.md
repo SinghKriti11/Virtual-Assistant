@@ -9,7 +9,7 @@ An AI-powered virtual assistant built using the MERN Stack and Google's Gemini A
 - 🔐 User Authentication (Sign Up & Login)
 - 🤖 AI-powered conversations using Google Gemini API 
 - 💬 Real-time chat interface
-- ☁️ Cloudinary integration for media management
+- ☁️ Cloudinary integration for media management 
 - 📱 Fully responsive user interface
 - 🔒 Secure authentication using JWT
 - 💾 MongoDB database for user and chat data
