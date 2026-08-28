@@ -1,4 +1,4 @@
-# 🤖 Automate AI
+# 🤖 Automate AI 
 
 An AI-powered virtual assistant built using the MERN Stack and Google's Gemini API. Automate AI allows users to interact with an intelligent chatbot capable of answering questions, providing assistance, and generating AI-powered responses through a clean and responsive web interface.     
  
