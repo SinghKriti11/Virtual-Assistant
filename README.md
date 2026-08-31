@@ -82,7 +82,7 @@ Automate-AI/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ManasDeveshTrivedi/Automate-AI.git
+git clone https://github.com/SinghKriti11/Virtual-Assistant
 ```
 
 Move into the project directory
