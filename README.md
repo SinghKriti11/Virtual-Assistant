@@ -25,7 +25,7 @@ An AI-powered virtual assistant built using the MERN Stack and Google's Gemini A
 - Vite
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript (ES6+) 
 
 ### Backend
 - Node.js
